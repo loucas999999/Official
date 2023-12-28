@@ -278,7 +278,7 @@ header{
     }
 
     #talk a {
-        top: 45cm;
+        top: 47cm;
         font-size: small;
     }
 
@@ -287,8 +287,7 @@ header{
     }
 
     .box__p {
-        padding-top: 10px; 
-
+        padding: 10px 25px 0; 
     }
 
 
