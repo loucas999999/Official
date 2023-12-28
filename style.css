@@ -68,10 +68,6 @@ header{
     max-width: 20%;
 }
 
-
-
-
-
 .more{
     font-family: 'Poppins', sans-serif;
     height: 3cm;
@@ -288,6 +284,10 @@ header{
 
     .box__p {
         padding: 10px 25px 0; 
+    }
+
+    .img {
+        max-width: auto;
     }
 
 
